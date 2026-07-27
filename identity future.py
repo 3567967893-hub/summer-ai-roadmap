@@ -1,0 +1,6 @@
+name=input("你的名字是")
+age=int(input("你的年龄是"))
+car=input( "你的梦想职业是")
+print(f"我是{name}")
+print(f"今年{age}")
+print(f"未来想成为{car}")
